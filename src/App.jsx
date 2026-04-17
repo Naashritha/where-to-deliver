@@ -209,8 +209,14 @@ function App() {
                                 </svg>
                             </button>
                         )}
-                        <h1 className="text-2xl font-bold">Room:
-                            <span className="ml-2 px-2 py-1 bg-white text-purple-700 rounded-md font-mono text-sm">{roomId}</span>
+                        <h1 className="text-2xl font-bold">
+                            Room:
+                            <span className="ml-2 px-2 py-1 bg-white text-purple-700 rounded-md font-mono text-sm">
+                                {roomId}
+                            </span>
+                            <span className="ml-3 text-sm font-normal">
+                                👥 {users.length} users online
+                            </span>
                         </h1>
                     </div>
                     <div className="flex flex-col justify-center self-center sm:flex-row items-center gap-2 mt-2 md:mt-0 w-full md:w-auto">
