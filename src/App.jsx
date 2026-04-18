@@ -160,7 +160,7 @@ function App() {
                     <div className="max-w-3xl mx-auto">
                         <h3 className="text-3xl font-bold mb-4">Want to Learn How It Works?</h3>
                         <p className="text-gray-600 mb-6">
-                            Watch our full YouTube tutorial on building this feature in food delivery and logistics apps.
+                            Watch our full YouTube tutorial on building this feature in food delivery apps.
                         </p>
                         <a
                             href="https://www.youtube.com/@slr_tech"
@@ -168,7 +168,7 @@ function App() {
                             rel="noopener noreferrer"
                             className="inline-block bg-red-600 hover:bg-red-700 text-white font-semibold px-6 py-3 rounded-lg transition"
                         >
-                            📺 Watch on YouTube
+                            📺YouTube
                         </a>
                     </div>
                 </section>
