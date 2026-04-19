@@ -160,7 +160,7 @@ function App() {
                     <div className="max-w-3xl mx-auto">
                         <h3 className="text-3xl font-bold mb-4">Want to Learn How It Works?</h3>
                         <p className="text-gray-600 mb-6">
-                            Watch our full YouTube tutorial on building this feature in food delivery apps.
+                            Watch our full YouTube tutorial 
                         </p>
                         <a
                             href="https://www.youtube.com/@slr_tech"
