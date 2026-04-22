@@ -120,7 +120,7 @@ function App() {
 
                     <div className='w-full lg:w-1/2 space-y-8'>
                         <h2 className='text-4xl sm:text-5xl font-extrabold leading-tight'>
-                            Real-time Location Sharing<br />
+                            Real-time Location Sharing Application<br />
                             Map <span className='text-blue-600'>Easy & Fast</span>
                             {/* ✅ FIXED typo: deliever → deliver */}
                         </h2>
