@@ -160,7 +160,7 @@ function App() {
                     <div className="max-w-3xl mx-auto">
                         <h3 className="text-3xl font-bold mb-4">Want to Learn How It Works?</h3>
                         <p className="text-gray-600 mb-6">
-                            Watch our full YouTube tutorial for clear explanations and a step-by-step guide on how to use where-to-deliver effectively!for more updates
+                            Watch our full YouTube tutorial for clear explanations and a step-by-step guide on how to use where-to-deliver effectively!for more updates contact Naash
                         </p>
                         <a
                             href="https://www.youtube.com/@slr_tech"
